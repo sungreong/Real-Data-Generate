@@ -6,7 +6,7 @@ https://paper.dropbox.com/doc/Gan--AXDdekOtz5AxGgCP3LwcmAEOAg-rXyk0KE916Z11gRtaL
 
 
 
-Metric
+## Metric
   - Gan에서 흔히 사용하는 것들
     - 학습된 이미지 네트워크에 있는 layer 값이나 결과값을 활용해서 만드는 것이 때문에 똑같이 사용하는 것은 어려움.
     - Fréchet Inception Distance (FID) , Inception Score (IS)
@@ -20,15 +20,18 @@ Metric
         - 테스트 중인 방법은 제약조건을 주는 방식으로 진행중 
         - 전체 변수의 ks 평균 값과 가짜
 
+## 분포별 KS 통계량 값.
 
-![](./분포별_KS.png)     
+![](./분포별_KS.PNG)     
 
 -------------------------------
+
+## 실제 분포와 생성된 분포 비교.
 
 ![](./분포비교.png)
 
 
-Appendix
+## Appendix
 - GAN
   - https://arxiv.org/abs/1406.2661
 - CGAN
