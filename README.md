@@ -60,3 +60,6 @@ https://paper.dropbox.com/doc/Gan--AXDdekOtz5AxGgCP3LwcmAEOAg-rXyk0KE916Z11gRtaL
   - https://arxiv.org/abs/1812.04948
 - The relativistic discriminator: a key element missing from standard GAN
   - https://arxiv.org/pdf/1807.00734.pdf
+- Adversarial AutoEncoder
+  - [Paper] https://arxiv.org/pdf/1511.05644.pdf
+  - [Code] https://github.com/hwalsuklee/tensorflow-mnist-AAE/blob/master/aae.py
