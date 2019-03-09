@@ -43,11 +43,13 @@ https://paper.dropbox.com/doc/Gan--AXDdekOtz5AxGgCP3LwcmAEOAg-rXyk0KE916Z11gRtaL
 - Dist-Gan
   - https://arxiv.org/abs/1803.08887
 - MAGAN
-  - https://arxiv.org/abs/1704.03817
+  - [Code] https://github.com/wiseodd/generative-models
+  - [Paper] https://arxiv.org/abs/1704.03817
 - SoftMax GAN 
   - https://arxiv.org/abs/1704.06191
 - Boundary Seek Gan
-  - https://arxiv.org/abs/1702.08431
+  - [Code] https://github.com/wiseodd/generative-models
+  - [Paper] https://arxiv.org/abs/1702.08431
 - Dragan
   - https://arxiv.org/abs/1705.07215
 - Wgan
